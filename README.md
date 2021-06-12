@@ -21,7 +21,7 @@ FillUpTheCupApp shows the manipulation of a DOM using javascript. You need to se
 
 ## How to use
 
-Simply just click by how much you would like to fillup that cup. Then the animation will run and the space left to fill.
+Simply just click by how much you would like to fill up that cup. Then the animation will run. There will also be an information how much space there is left.
 
 ## Built with
 
