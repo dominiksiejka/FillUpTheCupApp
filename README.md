@@ -4,7 +4,7 @@
 
 [**click live demo of the project**](https://dominiksiejka.github.io/BillSplitterApp)
 
-![FillUpTheCupApp preview](./assets/billsplitter.jpg)
+![FillUpTheCupApp preview](./assets/fillcup.jpg)
 
 ## Table of Contents
 
